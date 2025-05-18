@@ -33,7 +33,7 @@ onMounted(async () => {
     <!-- Loading screen -->
     <div class="loading-screen" v-if="isLoading">
       <div class="logo-container">
-        <span class="logo-text">CodeCrafter</span>
+        <span class="logo-text">OneTapSolution</span>
         <span class="loading-dots">
           <span class="dot"></span>
           <span class="dot"></span>

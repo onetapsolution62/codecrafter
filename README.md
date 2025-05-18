@@ -11,5 +11,5 @@ git config --global user.name "KishanKamal"
 
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/onetapsolution62/codecrafter.git
+git remote add origin https://github.com/onetapsolution62/OneTapSolution.git
 git push -u origin main

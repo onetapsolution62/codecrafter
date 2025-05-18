@@ -57,7 +57,8 @@ watch(() => route.path, () => {
   <header class="navbar" :class="navbarClasses">
     <div class="container navbar-container">
       <router-link to="/" class="navbar-brand" @click="closeMobileMenu">
-        <span class="logo-text">CodeCrafter</span>
+        <!-- <span class="logo-text">OneTapSolution</span> -->
+        <span class="logo-text">OneTapSolution</span>
       </router-link>
       
       <!-- Desktop Navigation -->

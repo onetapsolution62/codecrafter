@@ -23,7 +23,7 @@ const subscribeToNewsletter = () => {
     <div class="container">
       <div class="footer-top">
         <div class="footer-brand">
-          <h3 class="footer-logo">CodeCrafter</h3>
+          <h3 class="footer-logo">OneTapSolution</h3>
           <p class="footer-tagline">Crafting excellence in software solutions</p>
           <div class="social-links">
             <a 
@@ -52,21 +52,21 @@ const subscribeToNewsletter = () => {
           </div>
           
           <div class="footer-links-column">
-            <h4 class="footer-heading">Resources</h4>
+            <!-- <h4 class="footer-heading">Resources</h4>
             <ul class="footer-list">
               <li><a href="#">Documentation</a></li>
               <li><a href="#">Help Center</a></li>
               <li><a href="#">Privacy Policy</a></li>
               <li><a href="#">Terms of Service</a></li>
-            </ul>
+            </ul> -->
           </div>
           
           <div class="footer-links-column">
             <h4 class="footer-heading">Contact</h4>
             <ul class="footer-list">
-              <li><a href="mailto:hello@codecrafter.com">hello@codecrafter.com</a></li>
-              <li><a href="tel:+11234567890">+1 (123) 456-7890</a></li>
-              <li>123 Tech Plaza, Suite 200<br>San Francisco, CA 94107</li>
+              <li><a href="mailto:onetapsolution62@gmail.com">onetapsolution62@gmail.com</a></li>
+              <li><a href="tel:+919801555338">+91 9801555338</a></li>
+              <li><b>Registered Office:</b> <br>Sharma Complex, Shiblibari <br>Dhanbad - Jharkhand <br>Pin: 828203</li>
             </ul>
           </div>
         </div>
@@ -92,7 +92,7 @@ const subscribeToNewsletter = () => {
       </div>
       
       <div class="footer-bottom">
-        <p class="copyright">© {{ currentYear }} CodeCrafter. All rights reserved.</p>
+        <p class="copyright">© {{ currentYear }} OneTapSolution. All rights reserved.</p>
         <div class="footer-legal">
           <a href="#">Privacy Policy</a>
           <a href="#">Terms of Service</a>

@@ -34,21 +34,21 @@ const services = [
 const testimonials = [
   {
     id: 1,
-    quote: "CodeCrafter transformed our business with their innovative software solutions. Their attention to detail and commitment to quality is unmatched.",
+    quote: "OneTapSolution transformed our business with their innovative software solutions. Their attention to detail and commitment to quality is unmatched.",
     author: "Sarah Johnson",
     role: "CEO, TechInnovate",
     avatar: "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=150"
   },
   {
     id: 2,
-    quote: "Working with CodeCrafter was a game-changer for our startup. Their team delivered a flawless product that exceeded our expectations.",
+    quote: "Working with OneTapSolution was a game-changer for our startup. Their team delivered a flawless product that exceeded our expectations.",
     author: "Michael Chen",
     role: "Founder, DataVision",
     avatar: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=150"
   },
   {
     id: 3,
-    quote: "The mobile app CodeCrafter developed for us has received exceptional feedback from our users. Professional, responsive, and incredibly talented team.",
+    quote: "The mobile app OneTapSolution developed for us has received exceptional feedback from our users. Professional, responsive, and incredibly talented team.",
     author: "Emily Rodriguez",
     role: "Product Manager, MobiConnect",
     avatar: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=150"
@@ -175,12 +175,12 @@ onMounted(() => {
       <div class="container">
         <div class="about-content">
           <div class="about-image reveal">
-            <img src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="CodeCrafter team" />
+            <img src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="OneTapSolution team" />
           </div>
           <div class="about-text reveal reveal-delay-2">
             <h2>Who We Are</h2>
-            <p class="about-intro">CodeCrafter is a team of passionate developers, designers, and strategists dedicated to building exceptional software.</p>
-            <p>Founded in 2018, we've worked with startups, mid-size businesses, and enterprise clients across multiple industries to deliver innovative digital solutions that drive growth and solve complex problems.</p>
+            <p class="about-intro">OneTapSolution is a team of passionate developers, designers, and strategists dedicated to building exceptional software.</p>
+            <p>Founded in 2025, we've worked with startups, mid-size businesses, and enterprise clients across multiple industries to deliver innovative digital solutions that drive growth and solve complex problems.</p>
             <p>Our approach combines technical excellence with strategic thinking, ensuring that every project we undertake not only meets but exceeds our clients' expectations.</p>
             <router-link to="/about" class="btn btn-primary">Learn More</router-link>
           </div>
